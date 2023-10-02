@@ -1,27 +1,27 @@
 {
-   "name": "Ban All Bot",
+   "name": "𝗕𝗔𝗡 𝗔𝗟𝗟 𝗕𝗢𝗧",
    "description": "Telegram Bot",
    "repository": "https://github.com/DAXXSIR/BANALL",
    "logo": "",
    "image": "heroku/python",
    "env": {
       "API_ID": {
-        "description": "Fill Api ID Take this value from My.telegram.org",
+        "description": "𝗙𝗶𝗹𝗹 𝗬𝗼𝘂𝗿 𝗔𝗣𝗜 𝗶𝗱( My.telegram.org)",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "Fill Api hash Take this value from My.telegram.org",
+        "description": "𝗙𝗶𝗹𝗹 𝗬𝗼𝘂𝗿 𝗔𝗣𝗜 𝗛𝗔𝗦𝗛 (My.telegram.org)",
         "value": "",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "Bot Token",
+        "description": "𝗕𝗼𝘁 𝗧𝗼𝗸𝗲𝗻",
         "value": "",
         "required": true
       },      
       "SUDO": {
-            "description": "Sudo users id space by space",
+            "description": "𝗢𝗪𝗡𝗘𝗥 𝗜𝗗",
             "value": "",
             "required": true  
       }
