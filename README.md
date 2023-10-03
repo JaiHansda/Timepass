@@ -1,6 +1,7 @@
 # 𝗕𝗔𝗡 𝗔𝗟𝗟 𝗕𝗢𝗧 𓇽
 
-- This is a Sudo Based Members Banning Bot 
+- This is a Sudo Based Members Banning Bot
+- 
  
 # Commands
 - 𝗽𝗶𝗻𝗴
@@ -14,4 +15,4 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/DAXXSIR/BANALL)
 
 # Credits
-* 
+* [DAXX](https/t.me/Cyberdaxxx)
