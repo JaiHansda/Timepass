@@ -123,7 +123,7 @@ async def banall(event):
              except Exception as e:
                    print(str(e))
                    await asyncio.sleep(0.1)
-         await RiZoeL.edit(f"**Fucked by @Team_x-Alpha, Group Chod Diya Successfully ! \n\n Banned Users:** `{bann}` \n **Total Randis:** `{all}`")
+         await RiZoeL.edit(f"**Fucked by @Team_x_Alpha, Group Chod Diya Successfully ! \n\n Banned Users:** `{bann}` \n **Total Randis:** `{all}`")
 
     
 @Riz.on(events.NewMessage(pattern="^/unbanall"))
